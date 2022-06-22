@@ -1,0 +1,28 @@
+.frame{
+  border:3px solid blue;
+  background-color: green;
+}
+
+.hello{
+color: yellow;
+}
+
+#picture_1{
+  width: 50%;
+  display: block;
+  margin: 10px auto;
+}
+.about-body-background{
+  background-color: blue;
+}
+
+.a-list{
+  border:1px solid #3FBFBF;
+  width: 50px;
+}
+
+hr{
+  border: none;
+  border-top: 5px dotted gray;
+  width: 15%;
+}
